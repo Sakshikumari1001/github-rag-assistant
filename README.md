@@ -1,7 +1,7 @@
 # 🔍 GitHub RAG Assistant
 
 <p align="center">
-  <em>Ask natural language questions about any public GitHub repository — powered by Retrieval Augmented Generation.</em>
+  <em>Ask natural language questions about any public GitHub repository — powered by Retrieval Augmented Generation .</em>
 </p>
 
 <p align="center">
