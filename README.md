@@ -145,8 +145,6 @@ This project is open source and available for learning purposes.
 
 ## 👩‍💻 Author
 
-**Prem_Kumar_Gupta**
-
 **Sakshi_Kumari**
 
 [GitHub](https://github.com/sakshikumari01)
